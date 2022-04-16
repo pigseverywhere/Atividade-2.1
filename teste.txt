@@ -1,3 +1,4 @@
 teste
 criei a branch sarah (2# merge com conflito).
-testando 3 conflito
+estou criando conflito (Sarah-branch)
+
