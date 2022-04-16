@@ -1,2 +1,2 @@
 teste
-criei a branch sarah e agora vou dar merge sem conflito
+criei a branch sarah e agora vou dar merge sem conflito ( merge com conflito).
